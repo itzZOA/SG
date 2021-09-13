@@ -1,0 +1,7 @@
+Para ejecutar el juego:
+
+1. Abrir el terminal en la raíz de la carpeta.
+2. Introducir el comando 
+$ python3 −m http.server
+3. En el navegador introducir localhost:8000/js
+4. Ya se ejecuta el juego
